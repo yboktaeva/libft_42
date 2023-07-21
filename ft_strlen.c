@@ -21,9 +21,3 @@ size_t	ft_strlen(const char *s)
 		i++;
 	return (i);
 }
-/*int main()
-{
-    char s[] = "lorem";
-    printf("%ld\n", ft_strlen(s));
-}
-*/
